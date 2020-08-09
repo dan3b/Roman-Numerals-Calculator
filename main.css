@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-image: linear-gradient(-45deg, #b81ef5 ,#6cd7f8);
+}
+
+header {
+    padding: 50px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 20pxpx;
+}
+
+
+
+/* Input Panel */
+
+.romans, .numbers {
+    text-align: centre;
+    padding: 15px 30px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;.
+    justify-content: space-between;
+    background-color: purple;
+    padding: 40px 60px:
+    margin-top: 100px
+}
+
+.container > a {
+    padding: 20px 40px;
+    background-color: red;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.container input {
+    padding: 20px;
+    font-size: 50px;
+    width: 200px;
+}
+
+
+
